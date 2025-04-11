@@ -15,30 +15,4 @@ Part 1: frontend Look at other competitors - write what you like, what you want 
 Part 2: backend api Set up a python api server separate from the react app Needs accept api requests, and respond back Ffmpeg for audio transformation Different track for each instrument is necessary to allow separate transformations Uploading of audio should be allowed Probably a good idea to have a base track in the server and a list of transformations to apply on top. Every time the user sends a new transformation, the server should apply it, then respond to the user with a transformed audio file. The server should still “remember”/keep the original audio file without transformations.
 
 MORE TO COME!
-About
 
-Web application to generate music using AI
-Resources
-Readme
-Activity
-Stars
-0 stars
-Watchers
-1 watching
-Forks
-0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    D

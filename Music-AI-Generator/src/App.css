@@ -1,0 +1,19 @@
+@import 'bootstrap/dist/css/bootstrap.css';
+
+.Sample{
+  margin-top: 2rem;
+}
+
+.container {
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.image {
+  max-width: 30%; /* Adjust width as needed */
+  height: 25rem;
+  margin-right: 200px;
+  margin-left: 100px;
+}
